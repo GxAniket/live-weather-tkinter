@@ -7,8 +7,8 @@ It features a clean GUI with **dark mode**, real-time weather info, and weather 
 
 ## 📸 Screenshot
 
-> ![output1](https://github.com/user-attachments/assets/c5e00319-5e70-4205-b67a-fa54ce30665e
-> ![output 2](https://github.com/user-attachments/assets/3e9c9d56-3854-4596-9bb3-df9867479c6c
+>![output1](https://github.com/user-attachments/assets/c5e00319-5e70-4205-b67a-fa54ce30665e
+>![output 2](https://github.com/user-attachments/assets/3e9c9d56-3854-4596-9bb3-df9867479c6c
 
 
 ---
