@@ -36,6 +36,9 @@ It features a clean GUI with **dark mode**, real-time weather info, and weather 
 
 ## Install required libraries:
 pip install pillow requests
+
+And 
+
 pip install tkinter 
 
 
